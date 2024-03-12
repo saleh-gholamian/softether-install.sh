@@ -1,5 +1,5 @@
 ## softether-install
-Set up SoftEther VPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+Setup SoftEther VPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 
 #0 Change ssh port
 ```bash
